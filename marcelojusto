@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <meta http-equiv="refresh" content="0; url=https://marcelojusto.com">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>R. Marcelo Justo - Página Pessoal</title>
+    <title>R. Marcelo Justo - Personal Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
             background-color: #f5f5f5;
             color: #333;
+            margin: 0;
+            padding: 0;
             line-height: 1.6;
         }
         .container {
@@ -31,14 +31,6 @@
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
-        .postmodernist {
-            background-color: #f0f0f0;
-            border: 2px solid #333;
-            padding: 20px;
-            margin-top: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
     </style>
 </head>
 <body>
@@ -47,20 +39,11 @@
             <h1>R. Marcelo Justo</h1>
         </header>
         <div class="description">
-            <h2>Sobre Mim</h2>
-            <p>Um profissional que combina consultoria, filosofia, psicologia e facilitação de processos de autoconhecimento é alguém que aborda questões complexas da vida humana de maneira holística e interdisciplinar. Aqui está uma descrição desse profissional:</p>
-            <div class="postmodernist">
-                <h3>Descrição do Profissional</h3>
-                <ul>
-                    <li><strong>Visão Holística:</strong> Este profissional enxerga os seres humanos como seres complexos e integrais, considerando diversos aspectos da vida, incluindo dimensões emocionais, mentais, espirituais e sociais.</li>
-                    <li><strong>Empatia e Escuta Ativa:</strong> Eles possuem forte empatia e habilidades de escuta ativa, permitindo que compreendam profundamente as necessidades e preocupações de seus clientes.</li>
-                    <li><strong>Conhecimento Interdisciplinar:</strong> Este profissional possui uma ampla gama de conhecimentos, desde teorias filosóficas até técnicas psicológicas e metodologias de facilitação de grupos.</li>
-                    <li><strong>Abordagem Personalizada:</strong> Eles reconhecem que cada indivíduo é único e adaptam suas abordagens e técnicas para atender às necessidades específicas de cada cliente.</li>
-                    <li><strong>Facilitação de Processos de Reflexão e Autoconhecimento:</strong> Eles ajudam os clientes a explorar questões existenciais, descobrir seus valores, identificar padrões de comportamento e crenças limitantes, e encontrar caminhos para o crescimento pessoal e profissional.</li>
-                    <li><strong>Desenvolvimento de Estratégias e Planos de Ação:</strong> Além de explorar questões internas, eles também auxiliam os clientes na formulação de estratégias e planos de ação concretos para alcançar seus objetivos e aprimorar seu desempenho.</li>
-                </ul>
-                <p>Em resumo, um profissional que combina consultoria, filosofia, psicologia e facilitação de processos de autoconhecimento oferece uma abordagem abrangente e integrada para o desenvolvimento pessoal e profissional, ajudando os clientes a se tornarem versões mais autênticas e realizadas de si mesmos.</p>
-            </div>
+            <h2>About Me</h2>
+            <p>A professional who blends consulting, philosophy, psychology, and facilitation of self-awareness processes is someone who approaches complex human life issues in a holistic and interdisciplinary manner.</p>
+            <p>As a facilitator and guide on the journey of self-awareness and personal development, I offer a comprehensive and integrative approach to help individuals become more authentic and fulfilled versions of themselves.</p>
+            <p>With a holistic vision and interdisciplinary knowledge, I tailor my approaches to meet the specific needs of each client, helping them explore existential questions, discover their values, and develop strategies for personal and professional growth.</p>
+            <p>In summary, I offer a trusted and authoritative presence in the field of personal and professional development, blending philosophy, psychology, and facilitation to create meaningful transformations.</p>
         </div>
     </div>
 </body>
